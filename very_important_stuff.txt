@@ -1,5 +1,5 @@
 Handleliste:
-melk
+lettmelk
 brød
 egg
 kattemat
